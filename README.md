@@ -53,7 +53,7 @@ To further improve positioning accuracy, we would explore other otions such as d
 
 #### Outline of project
 
-- https://github.com/vijay-shirsathe/CapstoneProject/blob/main/PositioningByFingerPrinting.ipynb
+- https://github.com/vijay-shirsathe/Capstone-Project
 
 ##### Contact and Further Information
 
