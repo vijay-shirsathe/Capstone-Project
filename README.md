@@ -55,7 +55,7 @@ To further improve positioning accuracy, we would explore other otions such as d
 
 - https://github.com/vijay-shirsathe/Capstone-Project
 
-##### Contact and Further Information
+
 
 
 
